@@ -76,8 +76,6 @@ I believe in leveraging AI to solve real-world problems and create meaningful im
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white\&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite\&logoColor=white\&style=for-the-badge)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yousefahmedsafy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ###
 
