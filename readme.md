@@ -40,14 +40,14 @@ I believe in leveraging AI to solve real-world problems and create meaningful im
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white\&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask\&logoColor=white\&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras\&logoColor=white\&style=for-the-badge)
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly\&logoColor=white\&style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23153A3A.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-%23111111.svg?style=for-the-badge&logo=langfuse&logoColor=white)
 ---
 
 ### 🧠 Languages
